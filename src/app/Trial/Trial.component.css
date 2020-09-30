@@ -1,0 +1,25 @@
+.btn{
+    border: 2px solid #51b4c4;
+    color: black;
+    font-size:small;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.sml{
+    font-size: x-small;
+}
+.num{
+    font-size: 50px;
+}
+.icon{
+    padding-right: 10px;
+}
+.blur{
+    color:#aaa8a8;
+}
+.space{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

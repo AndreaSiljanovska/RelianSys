@@ -1,0 +1,31 @@
+.small{
+    font-size:x-small;
+    color:#aaa8a8;
+    line-height: 2px;
+    
+}
+.RS{
+    font-size: x-large;
+    color:#2dc2d5;
+    line-height: 15px;
+}
+.card-title{
+    font-size: xx-large;
+    color:#2c3e50;
+    padding-top: 5px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.undert{
+    color:#aaa8a8;
+    padding-right:20px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+.container-center {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}

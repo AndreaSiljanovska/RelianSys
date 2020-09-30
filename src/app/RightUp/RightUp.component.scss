@@ -1,0 +1,103 @@
+p{
+    color: rgb(80, 79, 79);
+}
+.card-title{
+    position: absolute;
+    left: 20px;
+    top :10px;
+    font-weight: bold;
+
+}
+.title{
+    font-size: x-small;
+    line-height: 0.3px;
+}
+
+.underl{
+    border-bottom:1.3px solid rgba(194, 192, 192, 0.705); 
+    width: 18em;
+}
+
+.bld{
+    font-weight: bold;
+    font-size: small;
+}
+
+.con{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    line-height: 10px;
+}
+
+.sin{
+    padding-top: 10px;
+    margin-bottom: -5px;
+    line-height: 10px;
+}
+
+.btn {
+    background-color: #51b4c4; 
+    border: none;
+    width: 70px;
+    height: 30px;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    cursor: pointer;
+    padding: 0px;
+    font-weight : bold ;
+
+}
+
+.cardbody{
+    position : relative;
+}
+
+.con1{
+
+    position: absolute;
+    left: 20px;
+    top: 75px;
+}
+
+.con2{
+
+    position: absolute;
+    left: 20px;
+    top: 120px;
+}
+
+.con3{
+
+    position: absolute;
+    left: 20px;
+    top: 175px;
+}
+
+.con4{
+
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+}
+
+.btnedit1{
+
+    position: absolute;
+    right: 15px;
+    top: 108px;
+}
+
+.btnedit2{
+
+    position: absolute;
+    right: 15px;
+    top: 163px;
+}
+
+.btnedit3{
+
+    position: absolute;
+    right: 15px;
+    bottom: 40px;
+
+}
